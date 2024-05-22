@@ -1,0 +1,18 @@
+#footer{
+    background: rgb(241,11,11);
+    background: linear-gradient(90deg, rgba(241,11,11,0.5550595238095238) 0%, rgba(163,14,45,0.6222864145658263) 50%, rgba(180,10,13,0.5046393557422969) 100%);}
+
+
+#navbar{
+    background: rgb(241,11,11);
+    background: linear-gradient(90deg, rgba(241,11,11,0.5550595238095238) 0%, rgba(163,14,45,0.6222864145658263) 50%, rgba(180,10,13,0.5046393557422969) 100%);}
+
+
+    #logo{
+        color: white;
+        font-size: 50px;
+    }
+
+body{
+    background-color: #FAF9F6;
+}
